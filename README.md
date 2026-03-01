@@ -47,27 +47,34 @@
 
 ## 📊 GitHub Stats
 
-<picture align="center">
-  <source srcset="https://streak-stats.demolab.com?user=Haroon300&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://streak-stats.demolab.com?user=Haroon300&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://streak-stats.demolab.com?user=Haroon300&theme=default" />
+<p align="center">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=Haroon300&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com?user=Haroon300&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://streak-stats.demolab.com?user=Haroon300&theme=default" />
 </picture>
+</p>
+
 
 <br/>
 
-<picture align="center">
-  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=default" />
-</picture>
+<p align="center">
+  <picture align="center">
+    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=default" />
+  </picture>
+</p>
 
 <br/>
 
-<picture align="center">
-  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=default" />
-</picture>
+<p align="center">
+  <picture align="center">
+    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=default" />
+  </picture>
+</p>
 
 ---
 
