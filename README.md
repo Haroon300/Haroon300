@@ -45,9 +45,9 @@
 
 ---
 
-## 📊 GitHub Stats (Auto Light/Dark)
+## 📊 GitHub Stats
 
-<picture>
+<picture align="center">
   <source srcset="https://streak-stats.demolab.com?user=Haroon300&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://streak-stats.demolab.com?user=Haroon300&theme=default" media="(prefers-color-scheme: light)" />
   <img src="https://streak-stats.demolab.com?user=Haroon300&theme=default" />
@@ -55,7 +55,7 @@
 
 <br/>
 
-<picture>
+<picture align="center">
   <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=default" />
@@ -63,7 +63,7 @@
 
 <br/>
 
-<picture>
+<picture align="center">
   <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=default" />
@@ -71,9 +71,9 @@
 
 ---
 
-## 🏆 GitHub Trophies (Auto Light/Dark)
+## 🏆 GitHub Trophies
 
-<picture>
+<picture align="center">
   <source srcset="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=onedark&no-frame=true&row=1&column=6" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=flat&no-frame=true&row=1&column=6" media="(prefers-color-scheme: light)" />
   <img src="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=flat&no-frame=true&row=1&column=6" />
