@@ -45,19 +45,15 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Haroon300&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+## 📊 GitHub Stats (Test)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroon300&theme=tokyonight&cache_seconds=1800" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Haroon300&show_icons=true" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Haroon300" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon300&layout=compact" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Haroon300" />
 ---
 
 ## 🏆 GitHub Trophies
