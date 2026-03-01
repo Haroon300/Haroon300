@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+%7C+C%2B%2B;Full+Stack+Learner;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;MongoDB+Express+React+Node;Full+Stack+Learner;Welcome+to+my+GitHub!" />
 </p>
 
-<h3 align="center">🚀 Frontend Developer | React | JavaScript | C++</h3>
+<h3 align="center">🚀 MERN Stack Developer | MongoDB | Express | React | Node.js</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 BS Computer Science Student  
-- 🔭 Currently working on **ANT – Social Media Web App (React + C++ Backend)**  
-- 🌱 Learning **Full Stack Development**  
+- 🔭 Working on **ANT – Social Media Web App (MERN Stack)**  
+- 🌱 Learning **Full Stack Development (MERN)**  
 - 🎯 Goal: Professional Software Engineer  
 - ⚡ Love coding at night 🌙  
 
@@ -21,13 +21,13 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github,vscode" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🚀 **ANT** – Social Media Platform  
+- 🚀 **ANT** – Social Media Platform (MERN Stack)  
 - ⚖️ **LexEye** – Legal Help Platform  
 - 🌐 **MyPortfolio** – Personal Portfolio Website  
 
@@ -47,11 +47,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Haroon300&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Haroon300&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroon300&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroon300&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -62,9 +62,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=onedark&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**
+⭐ Thank you for visiting my GitHub profile!
