@@ -44,28 +44,40 @@
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Haroon300&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats (Auto Light/Dark)
 
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=tokyonight" />
-</p>
+<picture>
+  <source srcset="https://streak-stats.demolab.com?user=Haroon300&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com?user=Haroon300&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://streak-stats.demolab.com?user=Haroon300&theme=default" />
+</picture>
 
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=tokyonight" />
-</p>
+<br/>
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=onedark&no-frame=true" />
+<picture>
+  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=default" />
+</picture>
+
+<br/>
+
+<picture>
+  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=default" />
+</picture>
+
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+## 🏆 GitHub Trophies (Auto Light/Dark)
+
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=onedark&no-frame=true&row=1&column=6" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=flat&no-frame=true&row=1&column=6" media="(prefers-color-scheme: light)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=flat&no-frame=true&row=1&column=6" />
+</picture>
 
 ---
 
