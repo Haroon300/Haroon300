@@ -44,16 +44,22 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats (Test)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Haroon300&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haroon300&show_icons=true" />
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroon300&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Haroon300" />
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroon300&layout=compact&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon300&layout=compact" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Haroon300" />
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Haroon300&theme=onedark&no-frame=true" />
 ---
 
 ## 🏆 GitHub Trophies
